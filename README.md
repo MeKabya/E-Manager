@@ -1,1 +1,1 @@
-# E-Manager
+# Nothing but a useless project
